@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CalhamJNorthway
-- 👀 I’m interested in Game Development and 3D Programming, particularly procedural generation.
-- 🌱 I’m currently learning Unity, C#, Kotlin, AndroidX.
+- I'm a mobile engineer with interests in many facets of programming such as game development, emerging technology, and a deep love for kotlin
 
 <!---
 CalhamJNorthway/CalhamJNorthway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
